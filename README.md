@@ -33,15 +33,3 @@ We welcome contributions to improve Climate Crisis. To contribute:
 
 Please avoid making changes to core game logic or UI without first opening an issue to discuss the proposed change.
 
-## Assets & Licensing
-
-This project includes assets found in the `Assets/` folder. See `Assets/Font.txt` and `License.txt` for attribution and license information for third-party assets.
-
-## Contact
-
-If you have questions or ideas for collaboration, please open an issue in this repository or contact the project owner.
-
----
-
-Thank you for checking out Climate Crisis — games can educate, motivate, and inspire change.
-
